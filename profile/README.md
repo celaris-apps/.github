@@ -10,5 +10,8 @@ Celaris
 Build C++ desktop applications with a web frontend.
 <p>
 
+
+<div align="center">
+  <a href="https://celaris.cc/" rel="noopener" target="_blank">📑 Documentation</a>
+</div>
  
-> If you have found this page, you're early! This is a work of curiosity. However, I feel it is starting to grow legs. Watch this space.
